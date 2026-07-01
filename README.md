@@ -9,7 +9,7 @@ Aspiring Power BI Developer with hands-on experience in Power BI, SQL, DAX, Powe
 - Data Visualization
 
 ## Projects
-### Customer Churn Analysis
+### Banking Transaction Analytics
 - Built interactive dashboard
 - Created DAX measures
 - Analyzed customer retention trends
