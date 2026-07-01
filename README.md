@@ -19,5 +19,5 @@ Aspiring Power BI Developer with hands-on experience in Power BI, SQL, DAX, Powe
 - Sales trend analysis
 - Regional performance insights
 - ## Contact
--Email:bharathi.pgp1992@gmail.com
+- Email:bharathi.pgp1992@gmail.com
 - LinkedIn : https://www.linkedin.com/in/bharathi-lakshmi-1195373b1/
